@@ -1,0 +1,5 @@
+discord.py==2.4.0
+Red-Commons==1.0.0
+Red-DiscordBot==3.5.13
+Red-Lavalink==0.11.0
+splitwise==3.0.0
