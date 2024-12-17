@@ -1,0 +1,10 @@
+{
+  "author": ["Linus Karsai"],
+  "install_msg": "A message you wish to display to users after they sucessfully install your cog.",
+  "name": "splitwise",
+  "short": "A cog for helping manage Splitwise groups.",
+  "requirements": ["splitwise"],
+  "description": "Full description of your cog. Displayed on the Red Portal and with `[p]cog info`",
+  "permissions": [],
+  "tags": []
+}
